@@ -1,7 +1,6 @@
 *
-!**/*
+!**/*/
 !*.py
 !.gitignore
 .venv
-envs.py
 credentials.json
