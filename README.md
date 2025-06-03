@@ -36,8 +36,8 @@ __init__.py
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/ishimto/twilio.git
+cd twilio
 ```
 
 ### 2. Create and activate a virtual environment
