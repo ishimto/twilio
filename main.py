@@ -5,7 +5,7 @@ from modules.bot import app
 
 
 def main():
-    print(init_gitlab_users(sheet))
+    init_gitlab_users(sheet)
     app.run()
 
 
